@@ -1,3 +1,3 @@
-const ableToVote = (age) => age >= 18 ? "You are able to vote" : "you are not able to vote";
+const ableToVote = (age) => age >= 18 ;
 
 console.log(ableToVote(17));
